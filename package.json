@@ -1,5 +1,5 @@
 {
-  "name": "path-to-the-crown",
+  "name": "simple-games",
   "version": "1.0.0",
   "description": "A board game application",
   "main": "server.js",

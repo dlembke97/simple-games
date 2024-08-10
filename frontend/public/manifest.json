@@ -1,6 +1,6 @@
 {
-    "short_name": "PathToCrown",
-    "name": "Path to the Crown",
+    "short_name": "TicTacToe",
+    "name": "Tic Tac Toe",
     "icons": [
       {
         "src": "favicon.ico",
